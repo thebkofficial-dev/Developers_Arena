@@ -10,8 +10,8 @@ Developers Arena is a collaborative platform designed for software developers to
 - **Community Support**: Forums for discussions, questions, and networking among developers.
 
 ## Projects Included
-1. **Project A**: Description of Project A.
-2. **Project B**: Description of Project B.
+1. **Project A**: Student info.
+2. **Project B**: Grade Management System.
 3. **Project C**: Description of Project C.
 
 ## How to Run
